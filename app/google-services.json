@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970375140032",
+    "firebase_url": "https://voicecomunication-6e047.firebaseio.com",
+    "project_id": "voicecomunication-6e047",
+    "storage_bucket": "voicecomunication-6e047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970375140032:android:35d5177f9c374e6e",
+        "android_client_info": {
+          "package_name": "com.fancysoftwarehouse.voicecommunicationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970375140032-3n65dne3ag2gd8f9ehg874fjg7tbl5cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fancysoftwarehouse.voicecommunicationapp",
+            "certificate_hash": "bbdcdce176a9be881f839d3dd5af595e30e0df57"
+          }
+        },
+        {
+          "client_id": "970375140032-5gqsvec2ms4kt6ak6sbln8cdbr2gfeem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbO1Zo7bgViMSx3_BHuUM30zjR97Ewnsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970375140032-5gqsvec2ms4kt6ak6sbln8cdbr2gfeem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
